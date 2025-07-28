@@ -12,3 +12,7 @@ This project is a website that contains a business card for me.
 
 ## Project Demo
 <img width="953" height="511" alt="Business_Card" src="https://github.com/user-attachments/assets/29392d5b-10da-47c9-a528-e321b4f7d919" />
+
+
+## Live Website
+Want to view this project? <a href="https://jprbusinesscard.netlify.app/">Click here to go to the website!</a>
